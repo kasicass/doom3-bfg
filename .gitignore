@@ -1,6 +1,7 @@
 build/
 Debug/
 Release/
+Retail/
 *.opensdf
 *.sdf
 *.suo
